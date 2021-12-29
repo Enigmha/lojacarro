@@ -1,0 +1,32 @@
+.main-nav{
+    padding-left: 40px;
+    min-height: 70px;
+     
+}
+
+.nav-faixa{
+    background-color: #F78B00;
+}
+
+.nav-logo-text{
+    color: #00285F;
+}
+
+.main-menu{
+    display: flex;
+    font-size: 18px;
+    width: 380px;
+    justify-content: space-between;
+}
+
+.main-menu a{
+    color: #00285F
+}
+.main-menu a:hover{ 
+    color: #075cd4;
+}
+.main-menu a.active{
+    color: #03a526;
+    font-weight: bold;
+}
+
