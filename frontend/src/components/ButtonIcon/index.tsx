@@ -2,9 +2,11 @@ import './styles.css';
 
 const ButonIcon = () => {
     return(
-        <button className="btn-icon">
-            <p>VER CATALOGO</p>
-        </button>
+
+        <button type="button" className="btn btn-primary btn-lg btn-icon">VER CATALOGO</button>
+
+
+   
 
     );
     
