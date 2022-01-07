@@ -1,12 +1,11 @@
 import './asset/styles/custom.scss';
 import './App.css';
-import Home from 'pages/Home';
+  
+
+import Rotas from 'Rotas';
 
 const App = () => {
-  return (
-  
-      <Home />
-  );
+  return <Rotas />;
 };
 
 export default App;

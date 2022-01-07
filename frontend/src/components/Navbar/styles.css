@@ -20,13 +20,13 @@
 }
 
 .main-menu a{
-    color: #00285F
+    color: #00285F;
 }
 .main-menu a:hover{ 
     color: #075cd4;
 }
 .main-menu a.active{
-    color: #03a526;
+    color: #00285F;
     font-weight: bold;
 }
 

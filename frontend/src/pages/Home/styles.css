@@ -1,31 +1,23 @@
 .home-container {
   background-color: #fff;
-
-  border: 1px solid red;
 }
 
-.home-card {
-  border: 1px solid green;
-}
 
 .home-2panding {
   display: flex;
   flex-direction: column-reverse;
-  background-color: #00285f;
-  box-shadow: 0px 4px 20px rgba(0, 0, 0 0.25);
   border-radius: 20px;
   padding: 10px;
   color: #fff;
   padding: 5px;
 
-  border: 10px solid mediumslateblue;
+
 }
 
 .home-content-container {
   display: flex;
   text-align: center;
   flex-direction: column;
-  border: 1px solid yellow;
   padding: 5px 50px 20px;
   font-size: 20px;
  
@@ -41,7 +33,7 @@
 
 .home-img-container {
   padding: 25px, 5px;
-  border: 5px solid fuchsia;
+
 }
 
 .home-img-container svg {
@@ -52,7 +44,7 @@
 .home-button {
   box-shadow: 0px 4px 20px rgba(0, 0, 0 0.25);
   border-radius: 20px;
-  border: 1px solid orangered;
+
   padding: 25px 5px 20px 10px;
   background-color: #ededed;
   text-align: center;

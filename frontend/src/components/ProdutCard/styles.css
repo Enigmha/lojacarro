@@ -1,0 +1,35 @@
+ .product-card{
+     margin-bottom: 30px;
+     background-color: #dedede;
+
+ }
+
+ .card-top-container{
+     padding: 15px 0px;
+     text-align: center;
+
+ }
+
+ .card-top-container img{
+    width: 80%;
+
+}
+
+ .card-bottom-container{
+     color:black;
+     padding: 5px 15px;
+     
+ }
+ .card-bottom-container h6{
+    font-size: 20px; 
+    text-align: center;
+    padding: 0px 0px 10px 0px ;
+ }
+ 
+ .card-bottom-container p{
+     color: #585858;
+     ;
+    font-size: 16px;
+    font-style: italic; 
+    text-align: center;
+ }
